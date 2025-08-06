@@ -10,7 +10,7 @@ const Hero = () => {
         With your support, we can provide quality education to children living in slum areas,
         empowering them with the knowledge and skills they need to build a brighter future. Together,
         let’s make a difference. Take action today and be a part of the change!</p>
-      <button type="button" class="btn btn-warning " >Join us</button>
+      <Link to="/volunteer"><button type="button" class="btn btn-warning " >Join us</button></Link>
 
     </section>
   )

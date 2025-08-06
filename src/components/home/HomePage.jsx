@@ -1,7 +1,6 @@
 import React from 'react'
 import Hero from './Hero'
 import About from './About'
-import Education from './Education'
 import VolunteerForm from '../volunteer/VolunteerForm'
 
 
@@ -10,7 +9,6 @@ const HomePage = () => {
         <>
             <Hero />
             <About />
-            <Education />
             <VolunteerForm/>
 
         </>

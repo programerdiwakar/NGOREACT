@@ -72,6 +72,7 @@ body {
   background-color: white;
   padding-top: 5rem;
   background-image: url(/images/formbg.webp);
+  padding-bottom:5rem ;
 }
 
 .container .top {
